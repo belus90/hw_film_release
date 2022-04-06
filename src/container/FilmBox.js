@@ -40,7 +40,7 @@ const FilmBox = () => {
         <FilmList films = {films} />
     
         <hr></hr>
-        <h2 id= "release">View more upcoming releases</h2>
+        <h2 id= "release"><a href = "https://www.imdb.com/calendar/?region=gb">View more upcoming Releases  >> </a></h2>
         </>
     );
 }
